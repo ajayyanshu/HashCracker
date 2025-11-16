@@ -61,3 +61,25 @@ python3 cracker.py 2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9
     -b \
     -c abcdefghijklmnopqrstuvwxyz \
     -l 5
+```
+### 2. Dictionary Attack (-d)
+Tests every word from a given wordlist file (e.g., rockyou.txt).
+
+```bash
+# Example: Crack a password using a wordlist
+# Hash for 'password' (md5): e10adc3949ba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824
+python3 cracker.py e10adc3949ba59abbe56e057f20f883e \
+    -a md5 \
+    -d /path/to/rockyou.txt
+```
+### 3. Rule-Based Attack (-d + -r)
+The most powerful attack. Applies a set of common mutations to every word in your dictionary.
+
+```bash
+# Example: Crack 'Password123' using the base word 'password'
+# Hash for 'Password123' (sha1): c254b5505372b86f488583457016312b84781d05
+python3 cracker.py c254b5505372b86f488583457016312b84781d05 \
+    -a sha1 \
+    -d /path/to/rockyou.txt \
+    -r
+```
