@@ -1,6 +1,6 @@
-# PyHashCracker ⚡
+# Hash Cracker ⚡
 
-**PyHashCracker** is a high-performance, multi-threaded password recovery tool written in Python. It is inspired by features from professional tools like Hashcat, but built to be a clean, modern, and extensible Python project.
+**HashCracker** is a high-performance, multi-threaded password recovery tool written in Python. It is inspired by features from professional tools like Hashcat, but built to be a clean, modern, and extensible Python project.
 
 This tool is for educational purposes and ethical, authorized use only.
 
@@ -23,8 +23,8 @@ This tool is for educational purposes and ethical, authorized use only.
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/your-username/pyhashcracker.git](https://github.com/your-username/pyhashcracker.git)
-    cd pyhashcracker
+    git clone [https://github.com/your-username/hashcracker.git](https://github.com/your-username/hashcracker.git)
+    cd hashcracker
     ```
 
 2.  Create a `requirements.txt` file with the following content:
