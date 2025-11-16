@@ -132,6 +132,7 @@ For inquiries and support, please contact us at [ajayyanshu@gmail.com](mailto:aj
 ## Contributions
 
 Contributions are welcome! Please fork this repository and submit pull requests with your enhancements.
+
 ----
 
 ⚠️ Disclaimer
