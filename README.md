@@ -83,3 +83,17 @@ python3 cracker.py c254b5505372b86f488583457016312b84781d05 \
     -d /path/to/rockyou.txt \
     -r
 ```
+### 4. Mask Attack
+A highly-targeted brute-force. Use this when you know parts of the password.
+
+Mask Syntax:
+
+?l = Lowercase letter (a-z)
+
+?u = Uppercase letter (A-Z)
+
+?d = Digit (0-9)
+
+?s = Special Symbol (!@#$%...)
+
+Any other character is a literal.
