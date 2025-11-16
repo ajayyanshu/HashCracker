@@ -49,6 +49,8 @@ To see all available commands and options, use the `-h` flag:
 ```bash
 python3 cracker.py -h
 
+---
+
 ### 1. Brute-Force Attack (`-b`)
 Checks all combinations of a given charset up to a max length.
 
