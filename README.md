@@ -109,7 +109,7 @@ python3 cracker.py <hash_here> \
 ```
 ---
 ### ❤️ Support & Donations
-If you find this tool helpful and want to support itIf you find HashCrackPro useful and would like to support its development, please consider making a donation. Your contributions help us maintain and improve the project.
+If you find this tool helpful and want to support itIf you find HashCracker useful and would like to support its development, please consider making a donation. Your contributions help us maintain and improve the project.
 
 [![Donate](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd9o3K2CK9LObsNOok8nY4WYMSwKkhAzsz7NDxmO8eZU-d8dw4kEKW1Ycp3QpzVsT2okmWwoBXLXB757yQhoL0Xandlt3Wjwdw7tTlU4hTGdJcFH1tq1i0K6o7uTTGK-20fKi7DQhgoYEZkHI1-Y9UPBWAjiNhtn8TceqHS4O6kTaaeNweZe6OBJ0Ve0ou/s424/download.png)](https://buymeacoffee.com/ajayyanshu)
 
