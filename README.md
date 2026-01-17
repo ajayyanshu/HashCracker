@@ -28,8 +28,9 @@ This tool is for educational purposes and ethical, authorized use only.
     ```
 
 2.  Create a `requirements.txt` file with the following content:
-    ```
+    ```bash
    pip install tqdm
+   
     ```
 
 3.  Install the required Python packages:
