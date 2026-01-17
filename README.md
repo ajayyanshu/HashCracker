@@ -27,15 +27,9 @@ This tool is for educational purposes and ethical, authorized use only.
     cd hashcracker
     ```
 
-2.  Create a `requirements.txt` file with the following content:
-    ```bash
-   pip install tqdm
-   
-    ```
-
 3.  Install the required Python packages:
     ```bash
-    pip install -r requirements.txt
+    apt-get install python3
     ```
 
 ---
