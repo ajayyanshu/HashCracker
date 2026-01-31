@@ -1,4 +1,4 @@
-# Hash Cracker ⚡
+# Hash Cracker
 
 **HashCracker** is a high-performance, multi-threaded password recovery tool written in Python. It is inspired by features from professional tools like Hashcat, but built to be a clean, modern, and extensible Python project.
 
@@ -6,20 +6,20 @@ This tool is for educational purposes and ethical, authorized use only.
 
 ---
 
-## 🚀 Features
+##  Features
 
-* **⚡ Multi-Threaded:** Uses all available CPU cores (`multiprocessing`) to dramatically speed up cracking.
-* **🎯 Multiple Attack Modes:**
+* ** Multi-Threaded:** Uses all available CPU cores (`multiprocessing`) to dramatically speed up cracking.
+* ** Multiple Attack Modes:**
     * **Brute-Force:** Standard character-by-character attack.
     * **Dictionary:** Tests millions of words from a wordlist.
     * **Rule-Based:** Smartly mutates dictionary words (`pass` -> `Pass!`, `P@ss123`, etc.) to find common patterns.
     * **Mask Attack:** Targeted brute-force for known patterns (e.g., `Admin?d?d?d`).
-* **📊 Live Progress Bar:** A clean, real-time progress bar for all attack modes using `tqdm`.
-* **⚙️ Professional CLI:** A user-friendly command-line interface built with Python's `argparse` module, complete with help menus.
+* ** Live Progress Bar:** A clean, real-time progress bar for all attack modes using `tqdm`.
+* ** Professional CLI:** A user-friendly command-line interface built with Python's `argparse` module, complete with help menus.
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 1.  Clone the repository:
     ```bash
@@ -35,11 +35,11 @@ This tool is for educational purposes and ethical, authorized use only.
 
 ---
 
-## 📖 Usage
+##  Usage
 
 The script is run from the command line, with your target hash as the first argument. You must then choose one attack mode.
 
-### 💬 Get Help
+###  Get Help
 
 To see all available commands and options, use the `-h` flag:
 ```bash
@@ -109,7 +109,7 @@ python3 cracker.py <hash_here> \
     -m 'Admin?s?d?d'
 ```
 ---
-### ❤️ Support & Donations
+###  Support & Donations
 If you find HashCracker useful and would like to support its development, please consider making a donation and would like to support its development, please consider making a donation. Your contributions help us maintain and improve the project.
 
 [![Donate](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd9o3K2CK9LObsNOok8nY4WYMSwKkhAzsz7NDxmO8eZU-d8dw4kEKW1Ycp3QpzVsT2okmWwoBXLXB757yQhoL0Xandlt3Wjwdw7tTlU4hTGdJcFH1tq1i0K6o7uTTGK-20fKi7DQhgoYEZkHI1-Y9UPBWAjiNhtn8TceqHS4O6kTaaeNweZe6OBJ0Ve0ou/s424/download.png)](https://buymeacoffee.com/ajayyanshu)
@@ -129,6 +129,6 @@ For inquiries and support, please contact us at [ajayyanshu@gmail.com](mailto:aj
 Contributions are welcome! Please fork this repository and submit pull requests with your enhancements.
 
 
-### ⚠️ Disclaimer
+###  Disclaimer
 
 This tool is intended for educational purposes, cybersecurity training (CTFs), and authorized security audits only. The developer is not responsible for any malicious or illegal use of this software.
