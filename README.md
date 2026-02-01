@@ -119,16 +119,7 @@ If you find HashCracker useful and would like to support its development, please
 
 
 ---
-## Contact with us
+##  Contact
 
-For inquiries and support, please contact us at [ajayyanshu@gmail.com](mailto:ajayyanshu@gmail.com).
-
-
-## Contributions
-
-Contributions are welcome! Please fork this repository and submit pull requests with your enhancements.
-
-
-###  Disclaimer
-
-This tool is intended for educational purposes, cybersecurity training (CTFs), and authorized security audits only. The developer is not responsible for any malicious or illegal use of this software.
+**Ajay Kumar** *Security Engineer & Developer* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ajayyanshu/) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/ajayyanshu) [![Instagram](https://img.shields.io/badge/Instagram-Follow-black?style=flat&logo=instagram)](https://www.instagram.com/ajayyanshu/)
+   Feedback or issues? Reach out at ajayyanshu@gmail.com
